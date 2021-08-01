@@ -1,0 +1,35 @@
+.load-more {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    font-weight: 700;
+    justify-content: center;
+     padding: 10px 40px;
+    font-size: 16px;
+    font-weight: 700;
+    
+    border: 3px solid #000;
+    border-radius: 5px;
+    color: #000;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  
+  .load-more.is-hidden {
+      display: none;
+  }
+
+.searchBtn {
+    display: flex;
+    padding: 10px 40px;
+    min-width: 80px;
+    max-height: 50px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    border: 2px solid #000;
+    border-radius: 5px;
+  }
